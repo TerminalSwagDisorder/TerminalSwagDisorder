@@ -1,6 +1,6 @@
 # Ebin stats
 
-Full-stack dev <br/>
+Full-stack dev & IT support technician<br/>
 ## Current stack<br/>
 React, Node, Python, MySQL, SQLite3 <br/>
 <br/>
