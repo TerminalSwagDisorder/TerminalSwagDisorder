@@ -2,7 +2,7 @@
 
 Full-stack dev & IT support technician<br/>
 ## Current stack<br/>
-React, Node, Python, MySQL, SQLite3 <br/>
+PHP, React, Node, Python, MySQL, SQLite3 <br/>
 <br/>
 <br/>
 <br/>
